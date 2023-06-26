@@ -20,6 +20,5 @@ public class StrIndx {
 		finally {
 			System.out.println("Success");
 		}
-		System.out.println("Rest of the code");
 	}
 }
